@@ -1,4 +1,6 @@
 # Recover
+## This Project Is Homework From Harvard's CS50 Class. Per Their Academic Honesty Policy You Are NOT Allowed To Use This code As A Submission For Your Homework!
+
 Recovers JPEGS from a deleted memory card
 
 Project: Recover | Language: C‍
