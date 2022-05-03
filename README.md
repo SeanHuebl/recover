@@ -1,4 +1,4 @@
-# recover
+# Recover
 Recovers JPEGS from a deleted memory card
 
 Project: Recover | Language: C‍
